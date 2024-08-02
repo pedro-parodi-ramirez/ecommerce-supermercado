@@ -1,0 +1,11 @@
+body {
+    background-color: #dddd;
+}
+
+#list-messages{
+    list-style-type:none;
+}
+
+#user-avatar{
+    max-height: 48px;
+}
